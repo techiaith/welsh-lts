@@ -1,0 +1,39 @@
+Hawlfraint (c) 2014, Prifysgol Bangor
+Copyright (c) 2014, Bangor University
+
+Rhoddir caniatâd, yn rhad ac am ddim, i unrhyw berson sydd yn cael copi o'r
+meddalwedd hwn a ffeiliau dogfennaeth cysylltiedig (y "Meddalwedd"), i
+ymdrin â'r Meddalwedd heb gyfyngiad, gan gynnwys heb gyfyngiad yr hawl i
+ddefnyddio, copïo, addasu, cyfuno, cyhoeddi, dosbarthu, is-drwyddedu, ac/neu
+gwerthu copïau o'r Meddalwedd, ac i ganiatáu i bersonau y rhoddir y
+Meddalwedd iddynt i wneud hynny, yn amodol ar yr amodau canlynol:
+
+Rhaid cynnwys y hysbysiad hawlfraint uchod a'r hysbysiad caniatâd hwn ym
+mhob copi neu ran sylweddol o'r Meddalwedd.
+
+DARPERIR Y MEDDALWEDD "FEL Y MAE", HEB WARANT O UNRHYW FATH, NAILL AI WEDI'I
+FYNEGI NEU YMHLYG, GAN GYNNWYS OND HEB FOD YN GYFYNGEDIG I WARANTAU
+MARSIANDWYAETH, FFITRWYDD AT BWRPAS ARBENNIG A PHEIDIO Â THORRI AMODAU. NI
+FYDD YR AWDURON NA'R DEILIAID HAWLFRAINT YN ATEBOL DAN UNRHYW AMGYLCHIADAU
+AM UNRHYW HAWLIAD, IAWNDAL, NEU ATEBOLRWYDD ARALL, BOED MEWN ACHOS CONTRACT,
+CAMWEDD NEU FEL ARALL, SYDD YN DEILLIO O, ALLAN O NEU MEWN CYSYLLTIAD Â'R
+MEDDALWEDD, EI DDEFNYDD, NEU DRAFODION ERAILL AG EF.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
